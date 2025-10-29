@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png" alt="Palmeiras" class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png" alt="Palmeiras" width="200" heigth="200">
   
 
 </body>
