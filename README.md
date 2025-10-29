@@ -1,8 +1,10 @@
-<img src="https://media.tenor.com/I8EYt8fJnNYAAAAM/bumble-bee.gif">
+<img src="https://media.tenor.com/I8EYt8fJnNYAAAAM/bumble-bee.gif" alt="Bumble Bee" class="rounded-border">
+
 <style>
-.img{
-  border_color: RED;
-  border_radius: 50px;
-  border_style: solid;
-  }
-  </style>
+.rounded-border {
+  border: 5px solid red;
+  border-radius: 50px;
+  display: block;
+  margin: 0 auto;
+}
+</style>
